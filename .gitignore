@@ -27,3 +27,5 @@ app (Copy)/
 # Editor and OS
 .idea/
 .DS_Store
+
+.vscode/
